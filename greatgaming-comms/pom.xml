@@ -14,9 +14,9 @@
     </plugins>
   </build>
   <groupId>com.greatgaming.comms</groupId>
-  <artifactId>greatgaming-comms</artifactId>
+  <artifactId>comms</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>greatgaming-comms</name>
   <url>http://maven.apache.org</url>
   <dependencies>
